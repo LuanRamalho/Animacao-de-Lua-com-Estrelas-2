@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8e1ae9d3-dfb1-4d8d-a220-d7f50c28c474/dcp0xws-692772e2-7c12-49e7-9e8d-38b2f1eddd25.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhlMWFlOWQzLWRmYjEtNGQ4ZC1hMjIwLWQ3ZjUwYzI4YzQ3NFwvZGNwMHh3cy02OTI3NzJlMi03YzEyLTQ5ZTctOWU4ZC0zOGIyZjFlZGRkMjUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.clWUqcmUMUj5xuCjIbBJiJIxLu5QxtZLcYyGASb9c5E');
+  background-size: 100% 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+}
